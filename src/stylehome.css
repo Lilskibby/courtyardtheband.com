@@ -53,6 +53,16 @@ body{
     
 }
 
+.navbutton{
+    color: white;
+    text-decoration: none;
+    transition: .3s;
+}
+
+.navbutton:hover{
+    color: gray !important;
+}
+
 .album{
     width: 20%;
     margin-top: 15%;
